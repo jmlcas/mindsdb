@@ -1,13 +1,10 @@
-version: '3.3'
-
 services:
 
     mindsdb:
-        image: mindsdb/mindsdb
+        image: mindsdb/mindsdb:latest
         container_name: mindsdb
         ports:
             - '8200:47334'
             - '8300:47335'
-        restart: unless-stoppped
+        restart: unless-stoppped        
 
-        
