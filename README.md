@@ -1,4 +1,3 @@
-# mindsdb
-MindsDB - Machine Learning - Docker compose
+# MindsDB
 
-Ver en:  "localhost:8200"  "localhost:8300"
+Ver en:  "http://localhost:8200"  "http://localhost:8300"
